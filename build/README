@@ -1,0 +1,4 @@
+1.this is the cmake configuration directory.
+        ex. 'cmake ..'
+2.this is the make execution directory.
+        ex. 'make'
